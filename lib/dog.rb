@@ -1,12 +1,12 @@
 # Your code goes here!
 
 class Dog
-  =begin
+=begin
   def initialize
     @name = name
     @breed = breed
   end
-  =end
+=end
   
   def name
     @name
